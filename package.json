@@ -10,6 +10,10 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kairo-ts/Kairo-Router.git"
+  },
   "scripts": {
     "clean": "rimraf lib",
     "build:types": "tsc",
